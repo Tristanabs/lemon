@@ -1,27 +1,27 @@
 <h1 align="center">
   <br>
-  <a href="https://citra-emu.org/"><img src="https://i.imgur.com/ADJjMnR.png" alt="Lime" width="200"></a>
+  <a href="https://citra-emu.org/"><img src="https://media.discordapp.net/attachments/1198660841873088674/1220464617151660072/lemon.png?ex=660f093f&is=65fc943f&hm=6664592335771f2c1d909b03ceb009bd1bfa3c0c8b89213db7a06ddc0926fc99&=&format=webp&quality=lossless" alt="Lime" width="200"></a>
   <br>
-  <b>Lime</b>
+  <b>Lemon</b>
   <br>
 </h1>
 
-Emulation never dies! it changes and moves forward!
+La emulación nunca muere!, simepre vuelve.
+Esto solo es un fork de Citra, no soy desarrollador y no voy a dar soprte continuo a este proyecto.
 
-<h4 align="left"><b>Lime</b> is the world's most popular, open-source, Nintendo 3DS emulator.
+<h4 align="left"><b>Lemon</b> es un emulador de 3ds 
 <br>
-It is written in C++ with portability in mind and builds are actively maintained for Windows, Linux, Android, and macOS.
+Es un fork del original citra camuflado y se darán versiones para PC, Linux y Android
 </h4>
-If anyone wants to help Continue This citra Fork please do because i am not a dev and i just wanted to keep citra safe.
 
-## Release Builds
+## Builds
 
-https://github.com/RyzenDew/Lime-3DS-Emulator/releases
+On progress
 
-## How to support me
+## Ayudame
 
-Just subscribe to my YouTube https://www.youtube.com/c/MattsCreative 
+No se reciben donaciones ni nada por el estilo.
 
 ## License
 
-Lime is licensed under the GPLv2 (or any later version). Refer to the [LICENSE.txt](https://raw.githubusercontent.com/RyzenDew/Lime-3DS-Emulator/master/license.txt) file.
+On progress
