@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://citra-emu.org/"><img src="https://media.discordapp.net/attachments/1198660841873088674/1220464617151660072/lemon.png?ex=660f093f&is=65fc943f&hm=6664592335771f2c1d909b03ceb009bd1bfa3c0c8b89213db7a06ddc0926fc99&=&format=webp&quality=lossless" alt="Lime" width="200"></a>
+  <a href="web en desarrollo/"><img src="https://i.imgur.com/Cgl1E87.png" alt="lemon emulator" width="200"></a>
   <br>
   <b>Lemon</b>
   <br>
