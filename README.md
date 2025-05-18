@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-La emulación nunca muere! Juega a tus juegos de 3ds tranquilx con este fork de citra.
+La emulación nunca muere! Juega a tus juegos de 3ds tranquilo con este fork de citra.
 Esto solo es un fork de Citra, no soy desarrollador y no voy a dar soprte continuo a este proyecto, pero la última versión
 de citra es compatible con la mayoría de juegos de 3ds.
 
